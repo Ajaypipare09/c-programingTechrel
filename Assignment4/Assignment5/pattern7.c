@@ -1,3 +1,10 @@
+// * 
+// ** 
+// *** 
+// **** 
+// ***** 
+
+
 #include<stdio.h>
 int main()
 {
@@ -12,8 +19,7 @@ int main()
      
           for(j = 1; j <= i; j++){
            
-          printf("* ");// space * to pyramid
-     
+          printf("* ");
      printf(" ");
           }
           printf("\n");
