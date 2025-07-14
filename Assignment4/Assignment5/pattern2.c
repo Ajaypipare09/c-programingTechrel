@@ -1,3 +1,11 @@
+// ***** 
+// **** 
+// *** 
+// ** 
+// * 
+
+
+
 #include<stdio.h>
 int main()
 {
@@ -10,7 +18,7 @@ int main()
           for(k = 0; k < i; k++)
           printf(" ");
 
-          for(j = 1; j<n; j++);
+          for(j = 1; j<n; j++)
           {
                printf("*");
           }
